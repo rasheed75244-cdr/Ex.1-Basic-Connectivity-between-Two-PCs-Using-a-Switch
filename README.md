@@ -12,7 +12,7 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-Insert the network topology from Packet Tracer (Screenshot or drawing)
+<img width="555" height="292" alt="WhatsApp Image 2026-10-24 at 9 56 06 AM" src="https://github.com/user-attachments/assets/5c78c865-ae5c-4b06-8820-802b64b97c1a" />
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -43,7 +43,6 @@ ________________________________________
 
 <img width="933" height="637" alt="WhatsApp Image 2026-10-24 at 9 56 05 AM" src="https://github.com/user-attachments/assets/1ea38b62-db95-4006-8ef6-9d1ce237d7bd" />
 
-<img width="555" height="292" alt="WhatsApp Image 2026-10-24 at 9 56 06 AM" src="https://github.com/user-attachments/assets/5c78c865-ae5c-4b06-8820-802b64b97c1a" />
 
 ________________________________________
 # Result
