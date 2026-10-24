@@ -39,8 +39,12 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+<img width="860" height="542" alt="WhatsApp Image 2026-10-24 at 9 56 04 AM" src="https://github.com/user-attachments/assets/67b74241-5fd3-4083-8c7e-f41caa2ad0da" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
+<img width="933" height="637" alt="WhatsApp Image 2026-10-24 at 9 56 05 AM" src="https://github.com/user-attachments/assets/1ea38b62-db95-4006-8ef6-9d1ce237d7bd" />
+
+<img width="555" height="292" alt="WhatsApp Image 2026-10-24 at 9 56 06 AM" src="https://github.com/user-attachments/assets/5c78c865-ae5c-4b06-8820-802b64b97c1a" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
